@@ -5,6 +5,7 @@ on this their chosen battlefield
 
 Form by lines
 Shield by shield
+<<<<<<< HEAD
 Side by side
 We're marching into destiny
-=312314
+--------------------------
